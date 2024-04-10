@@ -51,7 +51,7 @@
                                             <li><a href="about-2.html">Demo 2</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="blog.html">Blog</a>
+                                    <li><a href="blog.php">Blog</a>
                  
                                     </li>
                                    
@@ -95,7 +95,7 @@
                             <div class="card-category">
                                 <a href="category.html">Food &amp; Drink</a>
                             </div>
-                            <h3 class="card-title"><a href="single-post.html">Ketchup Flavored Ice Cream!</a></h3>
+                            <h3 class="card-title"><a href="single-post.php">Ketchup Flavored Ice Cream!</a></h3>
                             <div class="card-excerpt">
                                 <p>Mandaremus illum possumus ullamco e qui de nisi enim anim. Si nulla si nisi, veniam litteris sed excepteur ne ut amet deserunt tempor nam expetendis de enim mandaremus. Ita ea minim esse cillum ut eram arbitror ullamco. Tamen ad expetendis ab ipsum proident...</p>
                             </div>
@@ -104,13 +104,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 28, 2018</a>
+                                    <a href="single-post.php">May 28, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">3 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -122,7 +122,7 @@
                                 <a href="category.html">Lifestyle</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">Hair You've Always Dreamed Of</a>
+                                <a href="single-post.php">Hair You've Always Dreamed Of</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Ex si esse deserunt, et dolore occaecat, singulis tamen e possumus voluptatibus, varias cernantur si aute quid. Noster vidisse iis exquisitaque, deserunt te irure. Ubi illum nostrud fidelissimae id occaecat duis probant. Occaecat hic quorum aliquip se...</p>
@@ -132,13 +132,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 27, 2018</a>
+                                    <a href="single-post.php">May 27, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">3 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +150,7 @@
                                 <a href="category.html">Lifestyle</a>, <a href="category.html">Travel</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">15 Of The World's Best Carnivals</a>
+                                <a href="single-post.php">15 Of The World's Best Carnivals</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Aliquip e duis. Se labore ullamco excepteur iis ullamco sint duis laboris amet sed ita occaecat de cernantur quo fore coniunctione voluptate enim senserit. Si ut nulla laboris, an eiusmod e incididunt. Non varias enim duis singulis, a quorum cupidatat. Voluptate summis...</p>
@@ -160,13 +160,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 25, 2018</a>
+                                    <a href="single-post.php">May 25, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">2 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -178,7 +178,7 @@
                                 <a href="category.html">Lifestyle</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">5 Ways to a Healthy Lifestyle</a>
+                                <a href="single-post.php">5 Ways to a Healthy Lifestyle</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Mandaremus veniam ab cupidatat exquisitaque, e quae laboris domesticarum, non sint mentitum fabulas de anim proident transferrem, ita aliqua imitarentur in in labore illum eram offendit, nisi fidelissimae possumus noster ullamco se eiusmod multos ex...</p>
@@ -188,13 +188,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 25, 2018</a>
+                                    <a href="single-post.php">May 25, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">3 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -206,7 +206,7 @@
                                 <a href="category.html">Food &amp; Drink</a>, <a href="category.html">Travel</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">Best Breakfast In The World</a>
+                                <a href="single-post.php">Best Breakfast In The World</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Fabulas relinqueret aut quamquam. Lorem possumus pariatur ut quibusdam transferrem an tempor. E consequat nam senserit, aliquip tamen est commodo illustriora. An cillum sunt ut quamquam. Laboris culpa occaecat, quo fugiat dolore varias consequat...</p>
@@ -216,13 +216,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 23, 2018</a>
+                                    <a href="single-post.php">May 23, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">3 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -234,7 +234,7 @@
                                 <a href="category.html">Food &amp; Drink</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">Best and Worst Summer Foods</a>
+                                <a href="single-post.php">Best and Worst Summer Foods</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Admodum comprehenderit id non cillum anim de appellat, ubi tamen singulis sempiternum, occaecat sunt appellat appellat ex varias an in quem laborum an si ita quid multos irure do excepteur culpa quamquam. Nam aliqua iudicem aliquip o sunt cupidatat...</p>
@@ -244,13 +244,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 22, 2018</a>
+                                    <a href="single-post.php">May 22, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">3 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -262,7 +262,7 @@
                                 <a href="category.html">Lifestyle</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">What Is Perfect Training?</a>
+                                <a href="single-post.php">What Is Perfect Training?</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Non in familiaritatem, esse mentitum deserunt. Sunt excepteur quamquam. Enim ullamco consequat, nisi se singulis non fugiat. Nulla laboris tractavissent, tempor hic illum vidisse. Tempor qui noster incurreret, officia in ingeniis ubi in sunt arbitror ubi...</p>
@@ -272,13 +272,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 21, 2018</a>
+                                    <a href="single-post.php">May 21, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">2 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -290,7 +290,7 @@
                                 <a href="category.html">Technology</a>
                             </div>
                             <h3 class="card-title">
-                                <a href="single-post.html">The Best Cameras For Beginners</a>
+                                <a href="single-post.php">The Best Cameras For Beginners</a>
                             </h3>
                             <div class="card-excerpt">
                                 <p>Pariatur ab enim ita in ne philosophari, cillum incididunt voluptate hic aut quorum vidisse distinguantur, quis possumus cohaerescant, mentitum eruditionem iis aliquip, ubi quem possumus quamquam ea o eiusmod graviterque culpa expetendis ingeniis...</p>
@@ -300,13 +300,13 @@
                                     By <a class="author-meta" href="author.html">Dawson Richey</a>
                                 </div>
                                 <div class="dawsonsgeek-date-meta">
-                                    <a href="single-post.html">May 20, 2018</a>
+                                    <a href="single-post.php">May 20, 2018</a>
                                 </div>
                                 <div class="dawsonsgeek-reading-meta">2 min read</div>
                             </div>
                         </div>
                         <div class="card-horizontal-right" data-img="images/1024x680.png">
-                            <a class="card-featured-img" href="single-post.html"></a>
+                            <a class="card-featured-img" href="single-post.php"></a>
                         </div>
                     </div>
                 </div>
@@ -382,23 +382,23 @@
                     <h5 class="dawsonsgeek-title-with-border"><span>Recent Posts</span></h5>
                     <ul>
                         <li>
-                            <a href="single-post.html">Ketchup Flavored Ice Cream!</a>
+                            <a href="single-post.php">Ketchup Flavored Ice Cream!</a>
                             <span class="post-date">May 28, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Hair You've Always Dreamed Of</a>
+                            <a href="single-post.php">Hair You've Always Dreamed Of</a>
                             <span class="post-date">May 27, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">15 Of The World's Best Carnivals</a>
+                            <a href="single-post.php">15 Of The World's Best Carnivals</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">5 Ways to a Healthy Lifestyle</a>
+                            <a href="single-post.php">5 Ways to a Healthy Lifestyle</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Best Breakfast In The World</a>
+                            <a href="single-post.php">Best Breakfast In The World</a>
                             <span class="post-date">May 23, 2018</span>
                         </li>
                     </ul>

@@ -52,7 +52,7 @@
                                             <li><a href="about-2.html">Demo 2</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="blog.html">Blog</a>
+                                    <li><a href="blog.php">Blog</a>
                  
                                     </li>
                                    
@@ -296,23 +296,23 @@
                     <h5 class="dawsonsgeek-title-with-border"><span>Recent Posts</span></h5>
                     <ul>
                         <li>
-                            <a href="single-post.html">Ketchup Flavored Ice Cream!</a>
+                            <a href="single-post.php">Ketchup Flavored Ice Cream!</a>
                             <span class="post-date">May 28, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Hair You've Always Dreamed Of</a>
+                            <a href="single-post.php">Hair You've Always Dreamed Of</a>
                             <span class="post-date">May 27, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">15 Of The World's Best Carnivals</a>
+                            <a href="single-post.php">15 Of The World's Best Carnivals</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">5 Ways to a Healthy Lifestyle</a>
+                            <a href="single-post.php">5 Ways to a Healthy Lifestyle</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Best Breakfast In The World</a>
+                            <a href="single-post.php">Best Breakfast In The World</a>
                             <span class="post-date">May 23, 2018</span>
                         </li>
                     </ul>

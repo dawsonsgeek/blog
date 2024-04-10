@@ -52,7 +52,7 @@
                                             <li><a href="about-2.html">Demo 2</a></li>
                                         </ul>
                                     </li> -->
-                                    <li><a href="blog.html">Blog</a>
+                                    <li><a href="blog.php">Blog</a>
                  
                                     </li>
                                    
@@ -81,7 +81,7 @@
                             <a class="dawsonsgeek-slider-img" href="#"></a>
                             <ul class="dawsonsgeek-slider-image-meta dawsonsgeek-image-meta-post">
                                 <li>
-                                    <a href="single-post.html"><span class="badge badge-default">May 28, 2018</span></a>
+                                    <a href="single-post.php"><span class="badge badge-default">May 28, 2018</span></a>
                                 </li>
                                 <li>
                                     <a href="category.html"><span class="badge badge-default">Food &amp; Drink</span></a>
@@ -104,7 +104,7 @@
                         <!-- POST 1 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="Hair You&#8217;ve Always Dreamed Of" />   
                                     </a>
                                 <div class="card-border">
@@ -112,7 +112,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Lifestyle</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">Hair You&#8217;ve Always Dreamed Of</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">Hair You&#8217;ve Always Dreamed Of</a></h3>
                                         <p>Ex si esse deserunt, et dolore occaecat, singulis tamen e possumus voluptatibus, varias cernantur si aute quid. Noster vidisse iis exquisitaque, deserunt te irure. Ubi illum nostrud fidelissimae id occaecat duis probant. Occaecat hic quorum aliquip se&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -120,7 +120,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 27, 2018</a>
+                                            <a href="single-post.php">May 27, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">3 min read</div>
                                     </div>
@@ -130,7 +130,7 @@
                         <!-- POST 2 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                     <img class="card-vertical-img" src="images/900x600.png" alt="15 Of The World&#8217;s Best Carnivals" />   
                                 </a>
                                 <div class="card-border">
@@ -138,7 +138,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Lifestyle</a>, <a href="category.html">Travel</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">15 Of The World&#8217;s Best Carnivals</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">15 Of The World&#8217;s Best Carnivals</a></h3>
                                         <p>Aliquip e duis. Se labore ullamco excepteur iis ullamco sint duis laboris amet sed ita occaecat de cernantur quo fore coniunctione voluptate enim senserit. Si ut nulla laboris, an eiusmod e incididunt. Non varias enim duis singulis, a quorum cupidatat. Voluptate summis&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -146,7 +146,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 25, 2018</a>
+                                            <a href="single-post.php">May 25, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">2 min read</div>
                                     </div>
@@ -156,7 +156,7 @@
                         <!-- POST 3 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                     <img class="card-vertical-img" src="images/900x600.png" alt="5 Ways to a Healthy Lifestyle" />   
                                 </a>
                                 <div class="card-border">
@@ -164,7 +164,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Lifestyle</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">5 Ways to a Healthy Lifestyle</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">5 Ways to a Healthy Lifestyle</a></h3>
                                         <p>Mandaremus veniam ab cupidatat exquisitaque, e quae laboris domesticarum, non sint mentitum fabulas de anim proident transferrem, ita aliqua imitarentur in in labore illum eram offendit, nisi fidelissimae possumus noster ullamco se eiusmod multos ex&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -172,7 +172,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 25, 2018</a>
+                                            <a href="single-post.php">May 25, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">3 min read</div>
                                     </div>
@@ -182,7 +182,7 @@
                         <!-- POST 4 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                     <img class="card-vertical-img" src="images/900x600.png" alt="Best Breakfast In The World" />   
                                 </a>
                                 <div class="card-border">
@@ -190,7 +190,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Food &amp; Drink</a>, <a href="category.html">Travel</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">Best Breakfast In The World</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">Best Breakfast In The World</a></h3>
                                         <p>Fabulas relinqueret aut quamquam. Lorem possumus pariatur ut quibusdam transferrem an tempor. E consequat nam senserit, aliquip tamen est commodo illustriora. An cillum sunt ut quamquam. Laboris culpa occaecat, quo fugiat dolore varias consequat&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -198,7 +198,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 23, 2018</a>
+                                            <a href="single-post.php">May 23, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">3 min read</div>
                                     </div>
@@ -208,7 +208,7 @@
                         <!-- POST 5 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                     <img class="card-vertical-img" src="images/900x600.png" alt="Best and Worst Summer Foods" />   
                                 </a>
                                 <div class="card-border">
@@ -216,7 +216,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Food &amp; Drink</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">Best and Worst Summer Foods</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">Best and Worst Summer Foods</a></h3>
                                         <p>Admodum comprehenderit id non cillum anim de appellat, ubi tamen singulis sempiternum, occaecat sunt appellat appellat ex varias an in quem laborum an si ita quid multos irure do excepteur culpa quamquam. Nam aliqua iudicem aliquip o sunt cupidatat&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -224,7 +224,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 22, 2018</a>
+                                            <a href="single-post.php">May 22, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">3 min read</div>
                                     </div>
@@ -234,7 +234,7 @@
                         <!-- POST 6 -->
                         <div class="card-masonry">
                             <div class="card">
-                                <a href="single-post.html">
+                                <a href="single-post.php">
                                     <img class="card-vertical-img" src="images/900x600.png" alt="What Is Perfect Training?" />   
                                 </a>
                                 <div class="card-border">
@@ -242,7 +242,7 @@
                                         <div class="card-category">
                                             <span><a href="category.html">Lifestyle</a></span>
                                         </div>
-                                        <h3 class="card-title"><a href="single-post.html">What Is Perfect Training?</a></h3>
+                                        <h3 class="card-title"><a href="single-post.php">What Is Perfect Training?</a></h3>
                                         <p>Non in familiaritatem, esse mentitum deserunt. Sunt excepteur quamquam. Enim ullamco consequat, nisi se singulis non fugiat. Nulla laboris tractavissent, tempor hic illum vidisse. Tempor qui noster incurreret, officia in ingeniis ubi in sunt arbitror ubi&#8230;</p>
                                     </div>
                                     <div class="card-footer">
@@ -250,7 +250,7 @@
                                             By <a class="author-meta" href="author.html">Dawson Richey</a>
                                         </div>
                                         <div class="dawsonsgeek-date-meta">
-                                            <a href="single-post.html">May 21, 2018</a>
+                                            <a href="single-post.php">May 21, 2018</a>
                                         </div>
                                         <div class="dawsonsgeek-reading-meta">2 min read</div>
                                     </div>
@@ -261,7 +261,7 @@
                 </div>
                 <!-- VIEW ALL BUTTON -->
                 <div class="dawsonsgeek-view-more">
-                    <a class="btn btn-default" href="blog.html">VIEW ALL POSTS</a>
+                    <a class="btn btn-default" href="blog.php">VIEW ALL POSTS</a>
                 </div>
 
                 <!-- DIVIDER -->
@@ -274,7 +274,7 @@
 
                 <div class="dawsonsgeek-carousel-container">
                     <div class="dawsonsgeek-carousel-view-more">
-                        <a href="blog.html">VIEW ALL</a>
+                        <a href="blog.php">VIEW ALL</a>
                     </div>
 
                     <div id="dawsonsgeek-post-carousel" class="dawsonsgeek-carousel">
@@ -282,15 +282,15 @@
                         <div>
                             <div class="card-masonry card-small">
                                 <div class="card">
-                                    <a href="single-post.html">
+                                    <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="Ketchup Flavored Ice Cream!" />   
                                     </a>
                                     <div class="card-border">
                                         <div class="card-body">
                                             <div class="card-category">
-                                                <a href="single-post.html">May 28, 2018</a>
+                                                <a href="single-post.php">May 28, 2018</a>
                                             </div>
-                                            <h5 class="card-title"><a href="single-post.html">Ketchup Flavored Ice Cream!</a></h5>
+                                            <h5 class="card-title"><a href="single-post.php">Ketchup Flavored Ice Cream!</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -300,15 +300,15 @@
                         <div>
                             <div class="card-masonry card-small">
                                 <div class="card">
-                                    <a href="single-post.html">
+                                    <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="Hair You've Always Dreamed Of" />   
                                     </a>
                                     <div class="card-border">
                                         <div class="card-body">
                                             <div class="card-category">
-                                                <a href="single-post.html">May 27, 2018</a>
+                                                <a href="single-post.php">May 27, 2018</a>
                                             </div>
-                                            <h5 class="card-title"><a href="single-post.html">Hair You've Always Dreamed Of</a></h5>
+                                            <h5 class="card-title"><a href="single-post.php">Hair You've Always Dreamed Of</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -318,15 +318,15 @@
                         <div>
                             <div class="card-masonry card-small">
                                 <div class="card">
-                                    <a href="single-post.html">
+                                    <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="15 Of The World's Best Carnivals" />   
                                     </a>
                                     <div class="card-border">
                                         <div class="card-body">
                                             <div class="card-category">
-                                                <a href="single-post.html">May 25, 2018</a>
+                                                <a href="single-post.php">May 25, 2018</a>
                                             </div>
-                                            <h5 class="card-title"><a href="single-post.html">15 Of The World's Best Carnivals</a></h5>
+                                            <h5 class="card-title"><a href="single-post.php">15 Of The World's Best Carnivals</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -336,15 +336,15 @@
                         <div>
                             <div class="card-masonry card-small">
                                 <div class="card">
-                                    <a href="single-post.html">
+                                    <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="5 Ways to a Healthy Lifestyle" />   
                                     </a>
                                     <div class="card-border">
                                         <div class="card-body">
                                             <div class="card-category">
-                                                <a href="single-post.html">May 25, 2018</a>
+                                                <a href="single-post.php">May 25, 2018</a>
                                             </div>
-                                            <h5 class="card-title"><a href="single-post.html">5 Ways to a Healthy Lifestyle</a></h5>
+                                            <h5 class="card-title"><a href="single-post.php">5 Ways to a Healthy Lifestyle</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -354,15 +354,15 @@
                         <div>
                             <div class="card-masonry card-small">
                                 <div class="card">
-                                    <a href="single-post.html">
+                                    <a href="single-post.php">
                                         <img class="card-vertical-img" src="images/900x600.png" alt="Best Breakfast In The World" />   
                                     </a>
                                     <div class="card-border">
                                         <div class="card-body">
                                             <div class="card-category">
-                                                <a href="single-post.html">May 23, 2018</a>
+                                                <a href="single-post.php">May 23, 2018</a>
                                             </div>
-                                            <h5 class="card-title"><a href="single-post.html">Best Breakfast In The World</a></h5>
+                                            <h5 class="card-title"><a href="single-post.php">Best Breakfast In The World</a></h5>
                                         </div>
                                     </div>
                                 </div>
@@ -432,23 +432,23 @@
                     <h5 class="dawsonsgeek-title-with-border"><span>Recent Posts</span></h5>
                     <ul>
                         <li>
-                            <a href="single-post.html">Ketchup Flavored Ice Cream!</a>
+                            <a href="single-post.php">Ketchup Flavored Ice Cream!</a>
                             <span class="post-date">May 28, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Hair You've Always Dreamed Of</a>
+                            <a href="single-post.php">Hair You've Always Dreamed Of</a>
                             <span class="post-date">May 27, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">15 Of The World's Best Carnivals</a>
+                            <a href="single-post.php">15 Of The World's Best Carnivals</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">5 Ways to a Healthy Lifestyle</a>
+                            <a href="single-post.php">5 Ways to a Healthy Lifestyle</a>
                             <span class="post-date">May 25, 2018</span>
                         </li>
                         <li>
-                            <a href="single-post.html">Best Breakfast In The World</a>
+                            <a href="single-post.php">Best Breakfast In The World</a>
                             <span class="post-date">May 23, 2018</span>
                         </li>
                     </ul>
